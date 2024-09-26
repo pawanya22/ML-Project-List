@@ -20,4 +20,4 @@ pip install -r requirements.txt
 Run the script:
 python cartoonizer.py
 
-[![Open In Colab](https://colab.research.google.com/drive/1eBa8PvuwdXYUmnNzBxP6qXODh2XtpKmU?usp=sharing)]
+Open In Colab : (https://colab.research.google.com/drive/1eBa8PvuwdXYUmnNzBxP6qXODh2XtpKmU?usp=sharing)

@@ -10,5 +10,14 @@ This project allows you to convert an image into a cartoonized version using Pyt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Image-to-Cartoon.git
+   git clone https://github.com/pawanya22/ML-Project-List/tree/main/Image-to-Cartoon
    cd Image-to-Cartoon
+
+
+Install the required dependencies:
+pip install -r requirements.txt
+
+Run the script:
+python cartoonizer.py
+
+[![Open In Colab](https://colab.research.google.com/drive/1eBa8PvuwdXYUmnNzBxP6qXODh2XtpKmU?usp=sharing)]

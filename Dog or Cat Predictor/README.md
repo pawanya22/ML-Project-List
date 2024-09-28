@@ -10,8 +10,8 @@ This project allows you to convert an image into a cartoonized version using Pyt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pawanya22/ML-Project-List/tree/main/Image-to-Cartoon
-   cd Image-to-Cartoon
+   git clone https://github.com/pawanya22/ML-Project-List/tree/main/Dog%20or%20Cat%20Predictor
+   cd Dog or Cat Predictor
 
 
 Install the required dependencies:
